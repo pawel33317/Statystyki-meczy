@@ -1,0 +1,28 @@
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Symulator wyniku.csprojResolveAssemblyReference.cache
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\zaklady.Form1.resources
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\zaklady.Form2.resources
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\zaklady.Properties.Resources.resources
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Symulator wyniku.csproj.GenerateResource.Cache
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Symulator wyników.exe.config
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Symulator wyników.exe.manifest
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Symulator wyników.application
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Symulator wyników.exe
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Symulator wyników.pdb
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Symulator wyników.exe.manifest
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Symulator wyników.application
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Symulator wyników.exe
+C:\Users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Symulator wyników.pdb
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\bin\Debug\Symulator wyników.exe.config
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\obj\Debug\Symulator wyników.exe
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\obj\Debug\Symulator wyników.pdb
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\bin\Debug\Symulator wyników.exe.manifest
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\bin\Debug\Symulator wyników.application
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\bin\Debug\Symulator wyników.exe
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\bin\Debug\Symulator wyników.pdb
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\obj\Debug\Symulator wyniku.csprojResolveAssemblyReference.cache
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\obj\Debug\zaklady.Form1.resources
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\obj\Debug\zaklady.Form2.resources
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\obj\Debug\zaklady.Properties.Resources.resources
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\obj\Debug\Symulator wyniku.csproj.GenerateResource.Cache
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\obj\Debug\Symulator wyników.exe.manifest
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\StatystykiMeczy\WindowsFormsApplication1\obj\Debug\Symulator wyników.application
